@@ -1,0 +1,14 @@
+/* WorldTime.css */
+
+.world-time-table {
+  border: 2px solid yellow;
+  border-collapse: collapse;
+}
+
+.world-time-table th,
+.world-time-table td {
+  border: 1px solid yellow;
+  padding: 8px; /* Keep padding as desired */
+  min-width: 200px; /* Adjust the minimum width of the cells */
+  text-align: center; /* Optionally, center the content horizontally */
+}

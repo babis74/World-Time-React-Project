@@ -1,0 +1,14 @@
+/* Footer.css */
+
+.footer {
+  background-color: #4CAF50; /* Green color */
+  color: white;
+  padding: 20px;
+  text-align: center;
+  height: 50px; /* Increase height */
+}
+
+.footer span {
+  font-size: 18px; /* Increase text size */
+  padding-top: 30px; /* Add padding at the bottom */
+}
